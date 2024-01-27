@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virajbelyo
 - 👀 I’m interested in Full stack web Development.
-- 🌱 I’m currently learning React JS and Spring Boot.
+- 🌱 I’m currently learning MERN and DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
