@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virajbelyo
-- 👀 I’m interested in Full stack web Development.
-- 🌱 I’m currently learning MERN and DSA.
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning MERN, Data Analytics,  AI/ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
